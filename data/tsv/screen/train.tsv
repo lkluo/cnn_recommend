@@ -1,0 +1,1577 @@
+	sentence	label
+0	a light computer is preferable .	0
+1	i need a fast computer .	2
+2	the computer i want should startup fast , cool and quietly .	2
+3	i want a computer with high speed and a tiny power adapter .	2
+4	a computer which can quickly download stuff is which i need .	2
+5	however , i want it to be light and have a small screen .	2
+6	i also need large ssd and ram to store things .	2
+7	it 's better if it has a built-in sd drive .	2
+8	i also want it to be light and have a long battery life .	2
+9	i also want it to have a precise trackpad , nvme slots and great usb-c charging .	3
+10	hopefully the computer is fast and has tons of ports .	3
+11	the keyboard should have nice clickness and the trackpad should be responsive .	3
+12	a thin and light computer is preferable .	3
+13	the computer should be light .	3
+14	i also hope the sound output and the quality of image to be great .	3
+15	i need a light and fast computer with a high-resolution screen .	3
+16	it should also have long battery life .	3
+17	the computer should also be fast and modulable .	3
+18	good processor , good ram and good hard disk should be installed .	3
+19	i need a light computer .	3
+20	a nice packaging and good looking computer would be nice for me .	3
+21	the computer should also run quietly .	3
+22	the computer i will be using should be light and have thin edges .	3
+23	the computer would be even better with a long battery life and a high performance-cost ratio .	3
+24	i want a good-looking computer with an awesome keyboard .	3
+25	i want a fast computer with a good shell .	3
+26	the computer should have a long battery life and can be intergrated with my phone .	3
+27	i need a computer that immdiately wakes when i use it .	3
+28	it would be convenient if it does n't need a transfer of files .	3
+29	hopefully there is no system administration or virus software needed .	3
+30	i also want some good ports .	3
+31	hopefully the computer is speedy and have a reasonable price .	3
+32	i hope the computer would be secure to use , easy to use and simple to use .	3
+33	the keys should be comfortable and the screen size should be acceptable .	3
+34	i need a computer that can run my games fine and do editing .	3
+35	second , the bluetooth connection and the ac wifi should be stable .	3
+36	i need a computer with solid build quality and a reasonable price .	3
+37	my dream computer is a powerful laptop .	3
+38	i also want to access the internet in a faster way .	3
+39	i need a big screen for my computer to make it easy to work .	3
+40	i want a computer with a high performance-cost ratio , yet it should have efficient cooling and run quietly .	3
+41	the ssd should be fast and the battery life should be long .	3
+42	i need it to be quiet and have a great battery life also .	3
+43	i need a powerful computer with solid speakers and good built quality .	3
+44	the computer should have great build quality and specs , but also with a good price .	3
+45	i hope the price would n't be too high for all the above features .	3
+46	i need the computer to have high performance-cost ratio and low power consumption and heat .	3
+47	i need a computer with great build quality .	3
+48	i need a plain notebook without those flashy light but still keep a beautiful design .	3
+49	it would be great if it runs cool and is functioned with great screen and touch sensor .	3
+50	i need it to play games well at a low temperature and long battery life .	3
+51	hopefully the build quality is premium .	3
+52	i need the computer to keep cool when i am gaming .	3
+53	the computer i need should have a high performance-cost ratio and be solidly constructed .	3
+54	the temperature of the computer should be low while i am using it .	3
+55	the computer should be light and have a good fingerprint scanner .	3
+56	a good design and a cool keyboard should be applied to the computer .	3
+57	a cool computer which can run fast is what i need .	3
+58	i want to feel premium while using the computer .	3
+59	i also expect a good ips panel .	3
+60	hopefully there is a fast wifi connection and a high performance-cost ratio .	3
+61	i want the computer to run smoothly .	3
+62	i need the computer to be within reasonable price .	3
+63	the computer should have both reasonable price and performance .	3
+64	i want a computer that runs fast .	3
+65	i want a high performance-cost ratio computer which can do fast start-up .	3
+66	i want the computer to perform well in games and be perfect for upgraders .	3
+67	i hope it goes with a high performance-cost ratio .	3
+68	my desire computer should own a great keyboard and a powerful cooling system .	3
+69	i need a good gaming laptop .	3
+70	i need the computer to handle games well .	3
+71	and last but not least , i need it to be quiet .	3
+72	my computer should be fast and accessible , and should have a good graphic performance .	3
+73	i want the design to be tasteful and minimalist .	3
+74	i need the computer to have a clean resolution and audio .	3
+75	for the design , i prefer a sleek and neutral one .	3
+76	i need a sturdy computer with a beautiful screen and above-average sound quality .	3
+77	i want it to look professional and have a good fingerprint scanner and trackpad .	3
+78	the computer i will be using should have a high performance-cost ratio .	3
+79	i need a cheap computer with solid build quality and awesome cooling system .	3
+80	for the battery , i need it to be long enough to support my work .	3
+81	i need a computer with impressing build .	3
+82	i would like to have a computer with long battery life and can run fast and quietly .	3
+83	a good screen is also what i wanted , and hopefully its performance-cost ratio is high .	3
+84	i want the computer to be quiet and stay cool while playing games with a high perfomance-cost ratio .	3
+85	i also need it to have a clear screen and a decent battery life .	3
+86	seventh , i need a nice video card .	3
+87	it should have the best cooling and runs silently .	3
+88	i want a computer with great colour and viewing angles .	3
+89	i want a computer with good screen and fast booting .	3
+90	i want a computer with high performance-cost ratio .	3
+91	i want a fast computer .	3
+92	i want a high performance-cost ratio computer with a good fingerprint scanner and good keyboard backlighting .	3
+93	the keyboard would be better to be a back-lit red one and be comfy for typing .	3
+94	first , it should have a nice screen .	3
+95	i want a well-built computer .	3
+96	third , i want to play games smoothly on it .	3
+97	the computer i need is the one with high performance-cost ratio , while having good cooling and consistent performance .	3
+98	the computer i need would be the one with strong gpu and hardware .	3
+99	for the content , i want it to have a high expandability and can handle heavy duty work loads with a solid i/o options .	3
+100	i need a good video card to go with my computer .	3
+101	the build quality has to be awesome in my computer .	3
+102	i need the computer to do well in gaming and editing , of course with a good price also .	3
+103	i do n't want the computer to go overheat while performing the jobs .	3
+104	the computer i want should run intense games perfectly and have a high performance-cost ratio .	3
+105	i need a computer which has an excellent keyboard and a great screen , but also not too attractive to eyeballs .	3
+106	i need a computer that can play games fast and smoothly .	3
+107	i want a computer that stay in my budget .	3
+108	i need a fast computer .	3
+109	i want my future computer to have a high performance-cost ratio .	3
+110	i need a computer with a good trackpad and battery life which can max out any games .	3
+111	the keystokes on it should be comfortable to type on .	3
+112	a reasonable price is what i consider when buying a new computer .	3
+113	i want a computer with long battery life .	3
+114	i need a laptop with good build .	3
+115	the fps rates should be good as well as the wireless card .	3
+116	i hope it is well built and durable .	3
+117	i want a computer that have great specs and amazing cooling .	3
+118	the keyboard should be easy to type on and i want good precision and gestures from the computer .	3
+119	the computer i want should have high performance-cost ratio and a normal look .	3
+120	fifth , i would need a nice keyboard and a nice trackpad in case i need to type at night .	3
+121	i need the price to be reasonable and the battery life also .	3
+122	i hope the price fit with its performance .	3
+123	sixth , the computer should bootup fast .	3
+124	i need a high performance-cost ratio computer .	3
+125	the computer i need is the one which can be opened up and upgraded easily and have a good build quality .	3
+126	i want it to be lightweight and have a high performance-cost ratio .	3
+127	i need a computer with long battery life .	3
+128	the computer i want should have a high performance-cost ratio and a comfortable ips panel .	3
+129	a premium typing experience and a professional look are expected .	3
+130	i want my future computer to have plenty of storage with a high performance-cost ratio .	3
+131	i would need a good fps and a high performance-cost ratio .	3
+132	i need the computer not to look gaudy , but to play games well .	3
+133	the ssd should be good .	3
+134	of course it should have a reasonable price .	3
+135	for the price , i hope it wo n't be too high .	3
+136	i also want the design and the price to be nice .	3
+137	i want the computer to provide great performance with games and stay cool while playing .	3
+138	i want a fast and responsive computer .	3
+139	i have got a list of requirements for my desire computer .	3
+140	i need a good functioning fan to be along with my computer .	3
+141	i want a computer with nice performance-cost ratio .	3
+142	fourth , the battery life should be long enough .	3
+143	a nice cooling stand would be good for my computer .	3
+144	it would be better if the speakers and fingerprint reader are in good situation .	3
+145	i hope it will be portable .	3
+146	i also want adequate ram to store my data .	3
+147	the computer should boot up and connect to the wifi in a super fast way , but i do n't want the price to be too high and the diplay should be great also .	3
+148	the computer should be light for me to carry it around .	3
+149	hopefully the speakers are decent too .	3
+150	i need a computer which can be opened as soon as possible and have strong wireless connection .	3
+151	i need good keyboard , touchpad and fingerprint scanner .	3
+152	i need a computer with a nice and sleek look and large space for my programmes .	3
+153	i need a computer with cool extra hard drive that is fast and clear .	3
+154	i want a quick laptop with amazing display .	3
+155	i want the computer to boot up quick and last long for the battery .	3
+156	i need a few criteria for my new computer .	3
+157	i want a computer with high performance-cost ratio .	3
+158	i need a light computer .	3
+159	sixth , i need the computer to have a backlit keyboard which is quiet while typing .	3
+160	i would also look into the design , which i hope it to be light , slim and attractive .	3
+161	and i hope it runs fast on the programming .	3
+162	i need a thin computer with an appealing design and a light weight .	3
+163	i need a fast computer .	3
+164	i need a computer with a high performance-cost ratio and a large memory .	3
+165	the screen would be better if it has vibrant resolution .	3
+166	i need a light computer that runs fast .	3
+167	i also need to have a decent battery life to get my work done .	3
+168	i need to store my work so i need a decent cpu .	3
+169	i want it to have a high performance-cost ratio .	3
+170	i need the track pad to be functional and i should type fast and accurately on the keyboard .	3
+171	i need a fast computer in both typing responsiveness and log in time .	3
+172	i want it to be light and have a thin screen so i can carry it around .	3
+173	i need a well-built computer which is light and sleek so i can carry it around .	3
+174	i hope the keyboard is light-up and easy-to-type .	3
+175	second , i need a good selection of ports .	3
+176	i want a fast and light computer .	3
+177	i need to have plenty of ports on the computer .	3
+178	i need a good ssd and hdd combination for speed and power .	3
+179	the computer should be light .	3
+180	the computer should be slim , light and looking good .	3
+181	fourth , i need the viewing angles to be decent .	3
+182	and for the battery life , i prefer a longer one .	3
+183	i need to have a good screen with it .	3
+184	i need the computer to boot up fast .	3
+185	i need a good looking computer which stays within my budget .	3
+186	i love computer with great design .	3
+187	i need a eye-catching display and a satisfying backlit keyboard for the computer .	3
+188	i need a computer with great screen .	3
+189	the computer should have a light but large enough screen accomplished with speed .	3
+190	i do n't want the keyboard to be too fancy though .	3
+191	i need a computer with a reasonable price .	3
+192	i also need some really good hard drive .	3
+193	i need a computer that is light and start up fast .	3
+194	i need the screen to be nice and big while maintaining a light weight .	3
+195	the screen and touch pad should be great for my computer .	3
+196	i want a quick computer with reasonable price .	3
+197	i need a light computer which can turn on fast and run cool .	3
+198	for the weight , i prefer a light one .	3
+199	fifth , i need the computer to have a decent battery life .	3
+200	i want a light computer which can runs fast .	3
+201	i want the design to be sleek .	3
+202	i need a quick and responsive computer .	3
+203	i want a light computer with a backlit keyboard and a clear bright screen .	3
+204	i need to take it to my class so it 's better to be small and have a good screen to work with .	3
+205	i want the computer to stay within a reasonable price range , having a sensible fingerprint sensor and large amount of storage .	3
+206	i want the computer to be light enough for me to carry it around .	3
+207	i need a fast computer .	3
+208	i also need good bluetooth connection to the other devices .	3
+209	the usb port access should be great .	3
+210	i need a fast laptop with good configuration .	3
+211	seventh , i want the fan noise to be manageable .	3
+212	i need the screen to be great enough but not affecting the weight .	3
+213	i want a computer that do super fast startup and have a good processor .	3
+214	the computer should start up quickly with impressive specs .	3
+215	third , i need the colours to look vivid on the screen .	3
+216	for the keyboard , it would be better if it is back-lit .	3
+217	i need it to perform well in running small applications and programming .	3
+218	second , i need the computer to startup in seconds .	4
+219	i need the computer to have a powerful gpu .	4
+220	i need to have solid build quality on my computer .	4
+221	the sound system should be great for me .	4
+222	the keyboard should be fantastic and the touchpad should be smooth .	4
+223	i need some of the following features for my computer .	4
+224	the gui software ultilities should be good in the computer .	4
+225	last but not least , a good sound output is preferrable .	4
+226	2. i want the keyboard to be awesome with prefect resistence and spacing of keys .	4
+227	i would need a clean os to come with it as i do n't want too much bloatware .	4
+228	finally , i hope there is a decent price for all of these .	4
+229	i also need a good set of usb ports and extra fan .	4
+230	3 ) i need a satifying click on the keyboard coming with a good trackpad and good buttons .	4
+231	i need a high performance-cost ratio to come with my computer .	4
+232	i do n't want the computer to run at high temperature nor with loud noise .	4
+233	i also need plenty of storage , by the way , i hope the storage can be easily expanded because i do n't know if i still need more .	4
+234	the fan should be able to lower the temperature .	4
+235	2 ) the ssd should be nicely sized .	4
+236	7. i need my games , the windows and the vr to work fine on this laptop .	4
+237	i need the laptop to stay cool and be solid and reliable .	4
+238	a fast computer is preferrable .	4
+239	5 ) i need good build quality and a nice cool temperature .	4
+240	i also need the material and build to be great , not to forget about the cpu and gpu .	4
+241	i do n't want to have much bloatware on it and i hope the set up is easy for me .	4
+242	sixth , the speakers have to be good .	4
+243	i want a computer with high performance-cost ratio .	4
+244	high performance-cost ratio is what i expected from a computer .	4
+245	i like to have soft touch plastic attached to the laptop .	4
+246	4 ) for the screen , i need the colour to be vibrant and the brightness to be adequate .	4
+247	hopefully , the computer can run cool with these settings .	4
+248	i need a decent ssd and good cooling for my computer so it can play games well .	4
+249	fourth , i need the mousepad to be good .	4
+250	the gaming laptop should obviously perform well in gaming .	4
+251	sixth , for the screen , i need to have great colour display on it with a good refresh rate .	4
+252	the computer should run cool and quietly .	4
+253	i want a computer that can do fast startup .	4
+254	the computer should be easy for me to upgrade it .	4
+255	fourth , i need the fans to spin quietly .	4
+256	i need a fantastic monitor to come with it .	4
+257	seventh , it would be better if the dvd drive is removable to install something else .	4
+258	i also want the keyboard to be nice .	4
+259	the computer should run fast for playing my games prefectly .	4
+260	the screen should also have great refresh rate and display vivid colour .	4
+261	the screen should be enourmous and clear .	4
+262	i would also need great build quality to come with it .	4
+263	i need a computer to go fast and easy with my games .	4
+264	i need the display to look good when i am gaming smoothly .	4
+265	i do n't want the keys to be noisy .	4
+266	i hope the computer can connect well with oth devices .	4
+267	6. i need the sound output to be loud enoygh , but the fan should be as quiet as possible and not be overheaten .	4
+268	i need a computer that run cool and quietly .	4
+269	i need a computer with good build quality , great sound and excellent screen .	4
+270	i have a number of criteria for my computer : 1 ) i need incredible amount of sheer horsepower , incredible specs , and incredible processor .	4
+271	first , i want no screen bleeding/stuttering , no heat issue , no windows issue nor no much bloatware .	4
+272	i need an easy set up for my computer .	4
+273	i want a solid computer .	4
+274	fifth , i need to connect to the wifi in a super fast way .	4
+275	i hope the price wo n't be too high for it to cover all these features .	4
+276	the system should run fast for me and made me feel that is well made .	4
+277	i would like to have distinct buttons on the touch pad .	4
+278	second , i need some great software and a solid build .	4
+279	i need easy access slots to do expansion and good usb 3.0 ports layout to make things tidy .	4
+280	i want a computer that runs extremely cool with a good price .	4
+281	the size should be fit for its size .	4
+282	i want a good build quality with powerful and clear sound output .	4
+283	i want a fast computer .	4
+284	5. i need the computer to handle a large amount of data .	4
+285	fifth , the location of the fans should be considerate .	4
+286	i need a reasonable price to come with amazing specs and building quality .	4
+287	i also hope the battery life to be long to support my work .	4
+288	4. i need good cpu , good gpu and fast ssd .	4
+289	i need a computer with a high performance-cost ratio .	4
+290	i need a decently sized trackpad and a bright lcd screen .	4
+291	the viewing angles of the screen ought to be outstanding but the price should be reasonable .	4
+292	a nice keyboard with nice backlight is preferable .	4
+293	i need the computer to run games without causing problems and quietly .	4
+294	i need a computer that can run anything on ultra settings while staying super cool .	4
+295	third , i need an amazing keyboard with great trackpad .	4
+296	i need great functionality for my computer .	4
+297	the number of ports should be adequate for me .	4
+298	last but not least , it should look cool .	4
+299	3. i need tons of light settings for myself .	4
+300	i need a computer with a high refresh rate of its screen .	4
+301	i want a sturdy computer that runs quietly .	4
+302	the screen should have good viewing angles and good adjustment of brightness .	4
+303	a beautiful screen should be installed .	4
+304	i need a fast computer with great graphic performance .	4
+305	a computer that stays cool while gaming is what i need .	4
+306	i need some good speakers to come with it .	4
+307	i also need a nice keyboard and a good ips monitor .	4
+308	i need the sound to come out good on the computer .	4
+309	i need a sollid computer .	4
+310	i want the computer to play games well while keeping a low temperature .	4
+311	first , i need good refresh rate .	4
+312	the games should run smoothly on my computer .	4
+313	i need the computer to start up fast so i can run my games smoothly .	4
+314	i have high expectation of the screen , in which it should have good clarity and quality , also it should be bright and vibrant .	4
+315	i need great monitor and cool keyboard for my computer .	4
+316	i need the computer to have good build quality but with a reasonable price .	4
+317	i need some really good screen , speakers and keyboard for my computer .	4
+318	the laptop should stay within my budget .	4
+319	it would be prefect with incredible rainbow backlight .	4
+320	i want a fast computer with a beautiful look .	4
+321	i hope there is not much trial software on the computer .	3
+322	a fast computer with a great screen resolution is what i need .	3
+323	i need the look of the computer to be sleek .	3
+324	i do n't want the computer to be heavy or look dull .	3
+325	i need a computer that stays within my budget .	3
+326	i need it to be fast .	3
+327	i need a computer with high performance-cost ratio .	3
+328	i want to computer to have a low price .	3
+329	i need a computer which include a cd drive and run fast with wifi , and of course the price should be reasonable .	3
+330	i do n't have much money so i need a new computer with a good price .	3
+331	i also need nice web cam to hold conferences .	3
+332	i want to get to use the computer as soon as possible so it 's better to have some pre-loaded software .	3
+333	i want to change my old computer and i need a new one with a reasonable price .	3
+334	my old computer is n't working so i need a new computer which is fast and responsive .	3
+335	i want a faster computer than my old ones .	3
+336	i do n't have much money so i hope the price to be reasonable .	3
+337	i need a new computer that is fast and well priced .	3
+338	i work on webpage design so i hope the computer can work my graphic design programmes well .	3
+339	i need a fast computer .	3
+340	specs are what i look into when buying a new computer so the keyboard and trackpad must be decent .	3
+341	i need a computer that is good for multitasking .	3
+342	for the specs , i need excellent touch pad , good back-lit keyboard , perfect speakers and subwoofer audio .	3
+343	i also need nice keyboard and trackpad .	3
+344	i need a fast computer with a low budget .	3
+345	i am trying to find a new gaming laptop that plays my games fast and quietly .	3
+346	i need to take it to schoold so a normal design is preferrable .	3
+347	i need a really fast computer .	3
+348	i am looking for a computer that will boot fast and play games with ease .	3
+349	i would use the new computer with my wife so i want it to look sleek and have a good speaker .	3
+350	i play a number of games so i want the computer to run games well .	3
+351	i need a computer with a high-performance-cost ratio .	3
+352	everyday i need to use my laptop so i need a big screen and a great keyboard to make it comfortable , of course , it should be fast also .	3
+353	also , i want it to have great design and start up fast .	3
+354	i need a computer that works good for working and gaming without a high price .	3
+355	it should startup fast without being overheat .	3
+356	i look into graphics so i need a computer that can handle heavy graphics .	3
+357	i like playing games so i hope the new computer can play games at high settings effortlessly .	3
+358	i need a new computer that my video games can function well on it .	3
+359	i am a college student so i need a cheap computer which can last long for battery life .	3
+360	i want an amazing touch pad for my computer .	3
+361	i checked many computers on amazon and i want to find one with high performance-cost ratio .	3
+362	i also need a solid build that it only produce low fan noise .	3
+363	a computer that runs games well with a low cost is what i needed .	3
+364	i do n't have much money so good price is important for a new computer .	3
+365	i need a new gaming laptop with some good build quality .	3
+366	for the keyboard , i think it would be amazing to be backlighted .	3
+367	a good keyboard is preferrable .	3
+368	i need some good price for my computer as i am lacking money .	3
+369	i want it to boot and startup fast .	3
+370	i am new to gaming laptop and i want one that run flawlessly for games .	3
+371	i do gaming so i want some good gaming experience and long battery life for long-hour gaming .	3
+372	fourth , i sometimes do video conferencing so i need a good front camera .	3
+373	i also want some nice quality of graphics on it .	3
+374	for the specs , i hope there will be useful built-in features and programmes , solid hard drive and a strong compatibility with windows 10 .	3
+375	i care about the feel so the computer should be solid enough .	3
+376	first , the processor should be fast .	3
+377	i got to use a lot of graphics and processing-heavy programmes so i hope the computer has no issues with them .	3
+378	i would use the computer for gaming and home schooling so i hope it 's well built with a reasonable price .	3
+379	i do n't want to annoy others so i need a quiet computer .	3
+380	i enjoy playing games and i would like the games to display well with good speaker and good graphic performance .	3
+381	i also want it to look good .	3
+382	i need to take it around so i hope the finish would be matte and slightly rubbery .	3
+383	i know something about computer and all i want is a good-looking computer that play games well .	3
+384	i am a student so i need a computer that come with the perfect size and run games well .	3
+385	i do n't want it to be too heavy .	3
+386	i do n't require much for my new computer but speed is important .	3
+387	for the design , it must be good and have a backlit keyboard .	3
+388	i do literally everything on my laptop so i hope it to be easily upgradable and have a reasonable price .	3
+389	fifth , i need a superb charging speed as i may need the computer to work at anytime .	3
+390	i enjoy playing games on my laptop so i hope the laptop do magnificent job of graphics and gameplay .	3
+391	i do n't really have much money but i wish to have a computer that can run games on ultra graphic settings .	3
+392	i need a engineering work station so the computer should be fast .	3
+393	photo editing is my job so i would need a computer that have good screen resolution .	3
+394	my old computer has stopped working so i need a new computer with good internal specs , also , it should be fast and have amazing battery life .	3
+395	also , i like a sleek laptop with a responsive mousepad and keys .	3
+396	i also want it to have decent battery life for me to play games .	3
+397	the battery life should also be long to support my work .	3
+398	i need a good screen for me to work .	3
+399	i need a computer with a reasonable price .	3
+400	last but not least , i hope the price wo n't be too high .	3
+401	i may take it around so it should be light .	3
+402	i need a computer with a reasonable price .	3
+403	a decent battery life is also needed .	3
+404	i am buying my first laptop and i have thought of some requirement for it .	3
+405	i hope there will be clear display and sound .	3
+406	i need a computer to handle my school work so it should run fast .	3
+407	i take it around so i hope it looks attractive .	3
+408	i am considering to change my old computer and what i need is a computer with a high performance-cost ratio and long battery life .	3
+409	i am finding for a new gaming laptop .	3
+410	i can not spend too much on the computer so i need one with a reasonable price .	3
+411	second , the storage space should be large and the battery life should be decent for my games .	3
+412	i want to play games on my new computer so it should response quickly .	3
+413	i want to find a laptop that can play games with my friends so i need it to have great performance for gaming and be cheap .	3
+414	i use the computer for my personal use and i hope it wo n't heat up if overused .	3
+415	by the way , i hope the computer would run quietly .	3
+416	i pay attention to gaming experience so i need a new laptop with amazing gaming performance .	3
+417	it should produce less heat with a lower power consumption .	3
+418	not to mention that the specs should be wise .	3
+419	my old computer does n't work anymore so i need a new computer with cool graphics , cpu , ram and ports .	3
+420	i produce music so i hope the new computer works great for the software with a reasonable price .	3
+421	i need a computer with good specs .	3
+422	i also want a fantastic keyboard to come with it .	3
+423	i do virtualisation on my computer so i need a responsive laptop .	3
+424	i want to find a fast computer for my cousin .	3
+425	the screen should be bright with low light leckage and high colour representation that come with wide viewing angles .	3
+426	i also want it to be thin and light so that i can carry it around .	3
+427	i want to spend as less as possible on my new laptop .	3
+428	i may bring it around so it should be great looking and light .	3
+429	for gaming , i need it to run most of my games successfully .	3
+430	i want good hardware and good display to go with it .	3
+431	i do n't play many games but i still hope the computer would play games well .	3
+432	i am finding some recommendations for a new computer that is fast and have both nice cooling system and battery life .	3
+433	i do a lot of typing work so i hope the surface would be comfortable to rest my hands on .	3
+434	i like gaming so i need a laptop that run games well .	3
+435	for my gaming laptop , i want it to have a beautiful design .	3
+436	i am trying to find a gaming laptop that goes really fast .	3
+437	i have used my old computer for a long time and i am planning to replace it with a new one that has a much faster processing speed .	3
+438	i look into various factors while buying my new computer .	3
+439	i hope the computer will fit with my budget .	3
+440	i expect my new computer will be fast and reasonably priced .	3
+441	third , when i am playing games , i want to keys to be comfortable and the display to be good .	3
+442	i would use the computer for light gaming so i hope the computer would play games well .	3
+443	i also want it to comfortable and run fast .	3
+444	i want it to boot fast and run windows applications quickly .	3
+445	i want to change my old computer and i want a fast computer with reasonable price .	3
+446	i am using the computer for work so i need it to be fast and have bright colours .	3
+447	i also want it to have nice display and obtain bluetooth .	3
+448	i recently need a new computer that comes with high speed and minimal bloatware .	3
+449	i need a fast computer .	3
+450	i need it to be cheap and fast .	3
+451	i like computer that feels classy and sleek .	3
+452	it should be running fast so i can finish my papers on time .	3
+453	i have some expectations on my new computer that it should have a good processor with enough ram .	3
+454	my computer just recently broke down so i need a new computer immediately .	3
+455	i am trying to find a new computer that comes with good design and light weight .	3
+456	my wife and i want to change the computer of our home and we are finding a computer that works quietly and fast .	3
+457	the computer should have a high performance-cost ratio .	3
+458	a good touch screen is also necessary .	3
+459	for a better typing experience , i would need a great touchscreen and a responsive keyboard .	3
+460	the ports should also be acceptable .	3
+461	i need a computer to write my master 's papers so i need it to be light and portable to take it around .	3
+462	i do multitasking so i hope it works well on that with a decent price .	3
+463	of course , it should look good with a reasonable price .	3
+464	i play lots of games and i 'm finding a new computer that run fast of all my games .	3
+465	the computer i want should look cool and own a nice graphic card .	3
+466	i am finding a new gaming computer for myself and i want it to be fast and upgradeable .	3
+467	the setup should be nice and the keyboard should be great .	3
+468	i am buying a new computer for my wife and so the computer should play games with no problems .	3
+469	i am finding a replacement for my old computer and i want a new one that run games perfectly and incredibly fast , but with a great price .	3
+470	a backup laptop is needed and i hope it comes with great specs with low cost .	3
+471	i am getting into gaming laptop so i want one that runs most games smoothly with good specs .	3
+472	i also own a vr headset and i want it to work well with that .	3
+473	i am new into computer gaming and i want something that runs smoothly with reasonable price .	3
+474	i want the computer to run cool .	3
+475	i hope the price would be reasonable .	3
+476	i want to buy a new computer for gaming so i want it to download games quickly .	3
+477	i want it to boot up fast and run programs well .	3
+478	i also hope the setup would be easy for me .	3
+479	i want to have a laptop for out-of-town use and i want a budget-friendly computer that handle games with no issue .	3
+480	i am going to buy a new computer and i want it to startup fast with a reasonable price .	3
+481	i want to find a computer that can navigate fast and easily .	3
+482	i have some programes to be installed so the dvd drive should work well .	3
+483	i need a new computer for work so everything should be fast including the bootup .	3
+484	i am not a computer savvy and i want a computer that is easy to use .	5
+485	a good touch screen should be installed on my new computer .	5
+486	i need a new notebook and i want it to be light and easy to use .	5
+487	i want to replace my old computer that i want one which runs fast and silently .	5
+488	i want a computer that is lightweight and fast .	5
+489	speed is what i concerned when buying a new computer .	5
+490	i want it to look sleek within my budget .	5
+491	i would have no complaints as long as the new computer would start up in seconds .	4
+492	i want to play games well on a fast computer .	4
+493	a well-priced computer would be perfect for me .	4
+494	i am finding a fantastic bargain for my gaming computer .	4
+495	i am buying a new gaming laptop for my husband and i want a red backlit keyboard so it would be warm and comfortable to his eyes .	4
+496	i can not play certain games with my friend on my old computer so i need a new laptop that play games well and stay in a good price .	4
+497	i am purchasing a new computer mainly for gaming so it should play games smoothly and have a gorgeous screen .	4
+498	speed is the particular area i look into when purchasing a new computer .	4
+499	of course it should be fast .	4
+500	i also want it to run smoothly , cool and quietly .	4
+501	of course the computer should run games great , and i do n't want to wait too long for the game to be loaded .	4
+502	i need a new computer to go to work so it should be fast and sturdy .	4
+503	i want to have a new gaming laptop and i want a nice display to come with it .	4
+504	accessible fan settings would be prefect for me .	4
+505	i am new to gaming laptop and i want some really good red back-lit keys because that looks cool .	4
+506	i did a lot of research on my new computer and my wish is to have a fast computer that play games well .	4
+507	i am into gaming and i am finding a new computer that is fast and own a gorgeous screen .	4
+508	i need a present for my husband and i hope it can with a reasonable price .	4
+509	i also want it to be responsive , quiet and light .	4
+510	also , it should do quick boot up .	4
+511	i want the audio sound to be decent .	4
+512	i need some recommendations for an awesome gaming laptop .	4
+513	moreover , it should boot up fast and have smooth keys .	4
+514	i enjoy playing games and i want a new laptop that is good for gaming with a great price .	4
+515	i do n't have a huge budget for my new computer so it should come with a good price .	4
+516	my dream gaming laptop is the one that runs games well .	4
+517	i need it to run games perfectly under powerful cpu and gpu .	4
+518	the old computer is not satisfying so i want to find a new computer that comes with great value .	4
+519	i do love a good backlit keyboard .	4
+520	i have got some expectations on my new computer as i need an amazing monitor and a good keyboard .	4
+521	i also need it to have strong fan sound so i know the cooling system is working well .	4
+522	i may store a lot of games so i need as much storage as it can .	4
+523	speed is what i look into when purchasing a new computer .	4
+524	i like to have good design on my new computer and it should own a reasonable price .	4
+525	i do n't want an overheated computer so the cooling system should be quiet and efficient .	4
+526	i have a number of games that i would like to try on my new laptop so it should have a large storage that is great for gaming .	4
+527	i need a computer with great performance and cost .	0
+528	my husband has to go for business trip so he needs a laptop with perfect size .	0
+529	i travel a lot so i would like to have a sturdy and handy laptop .	0
+530	also , the battery life and screen should be good so i can show my clients my slides .	0
+531	i am planning to buy a computer as a present and all she wanted is a computer that is lightweight and has a long battery life .	0
+532	i need a computer for my work and i want it to be light and easy to carry for my meetings .	0
+533	i want to have the best laptop with the least money .	0
+534	i am replacing my old laptop for a better-sized laptop .	0
+535	i need a perfect laptop for my office work in which it should be small and handy .	0
+536	i want a computer that is well designed .	3
+537	i need a computer that powers up smoothly with a reasonable price .	3
+538	i am buying the computer for my family so i need a nice screen to protect their eyes .	3
+539	i would need large storage for my files .	3
+540	i need a replacement for my old laptop and i want a new one with good screen and nice price .	3
+541	i am saving money so i want a well priced computer .	3
+542	i am a writer and i am looking for a computer that is fast , quiet and lightweight .	3
+543	i am finding the best computer with my limited budget .	3
+544	also , it should be light .	3
+545	i don ’ t have much money so i need a computer that comes with a great price .	3
+546	i need to take my computer to school so it 's better to be lightweight .	3
+547	i hope my money is well paid for a high performance computer .	3
+548	i do multitasking all the time so it 'll be good to be able to split screens on an affordable computer .	3
+549	i like computers with sleek design .	3
+550	i do basic browsing and i am finding a cheap computer which comes up with the performance .	3
+551	i bring my laptop everywhere i go so i would like it to be sleek and lightweight .	3
+552	i am finding a fast computer .	3
+553	i would just use the computer for some light use so all i need is fast , cheap and good graphics .	3
+554	i hope the price wo n't be too high with the those features .	3
+555	it would be enjoyable to have a computer that is speedy with an amazing sound system .	3
+556	i need a slim computer with high screen resolution but come with a reasonable price .	3
+557	i have a lot of things to be done so i need a quick processor on my computer .	3
+558	i do n't have much requirements for a new computer but i need it to run fast and setup easily .	3
+559	i do n't like backlight on the keyboard because that would harm my eyes .	3
+560	i pay attention to my gaming experience but i also want a low price for a good computer .	3
+561	my grandson wants a new computer that would be great for gaming .	3
+562	i dislike bloatware so it 's better to be none of them .	3
+563	i am considering changing my old computer and what i want is a computer that run most games well within a reasonable price range .	3
+564	my wife wants to play more demanding games so she needs a computer that handles games well and quick .	3
+565	price is what i concern when purchasing a new computer .	3
+566	i am on budget gaming but i need a computer that turns on quickly .	3
+567	my wife needs a new computer and i am planning to gift her one that have nicely arranged keyboard and low cost .	3
+568	i ca n't use my old computer anymore and i need a new one that is fast and reasonably priced .	3
+569	a cheap yet powerful computer is what i need .	3
+570	i hope the new computer meet up my expectations with the money i paid .	3
+571	i am looking for a different brand from my current computer which would be fast and well priced .	3
+572	i do n't want the cost to surpass my budget .	3
+573	i am leaving my old computer for my family and finding myself a new computer that run games well .	3
+574	i like sleek looking computer .	3
+575	it 's even better with a low price .	3
+576	i do n't have a huge budget so the new computer should be cost-effective .	3
+577	i hope my money is well spent on a high quality computer .	3
+578	the computer should also be thin and light .	3
+579	i want a aesthetically beautiful so i would be happy to carry it around .	3
+580	my next semester is coming and i am finding a new computer to cope with the work .	3
+581	i like taking my laptop around so i like it to be light and good looking .	3
+582	i go on a lot of business travell so what i need is a computer that is light and does n't take up much space .	3
+583	i do n't want any bloatware .	3
+584	i am searching a good computer for school work and i think a computer with great graphic card and plenty of storage would be perfect .	3
+585	i am finding the best computer with the most reasonable price that can run games smoothly .	3
+586	i do a lot of professional tasks so i need a computer that run tons of programmes well with a fair price .	3
+587	good ram and processor are expected .	3
+588	i like beautiful things so my computer should have awesome looks .	3
+589	i work all time on computer so i am finding a new laptop that is fast , sleek and flat .	3
+590	a light computer is what i need .	3
+591	as a person who is into light gaming and video editing , i need a computer that goes perfect for both the aspect .	3
+592	the keyboard should be comfortable along with a useful numpad .	3
+593	i do a lot of research online and i am finding a new computer with a reasonable price .	3
+594	i need a computer as a present for my little brother and he like it to be aesthetically pleasing and response fast .	3
+595	i do n't plan to use the computer for studying so i just need the computer to play games well .	3
+596	it just need to have nice build quality .	3
+597	the graphic card should be great and the computer should work fast and well-organized .	3
+598	of course , the price ca n't be too high .	3
+599	i hope the money i spent would be exchanged for a good computer .	3
+600	i want to gift a nicely priced computer to my brother-in-law .	3
+601	i need some good build quality to come with the computer .	3
+602	i like playing games so games should be able to run fast on the new computer .	3
+603	i am finding a beautiful laptop with a good screen size and a full keyboard .	3
+604	a good graphic card and lots of ram would be good for me to do gaming .	3
+605	the computer should play games easily with an amazing price .	3
+606	i need a good computer with good price .	3
+607	i use cad programmes so i am finding a computer that run those programmes well .	3
+608	i need a computer that comes with a high performance-cost ratio .	3
+609	my wife would like to have a computer with a high performance-cost ratio .	3
+610	price is an important element when i purchase a new computer .	3
+611	my husband wants a faster computer that his current one .	3
+612	i work at home so it 's important for me to have a computer that is fast and priced well .	3
+613	a great battery life is expected .	3
+614	i am buying a new computer for myself on black friday and i want it to play games well .	3
+615	a reasaonably priced computer is what my wife needs .	3
+616	i am finding a new computer for myself and i want it to boot up fast and handle several games well .	3
+617	i take my laptop around the campus so it should be sleek and light .	3
+618	i am finding a fast computer .	3
+619	i am a student and i want a computer that has a powerful quad core and sturdy construction .	3
+620	i do n't prefer a heavy computer .	3
+621	a decent keyboard and a responsive touchpad are also necessary .	3
+622	i would need to have enough ram to store all my files .	3
+623	i don ’ t want my computer to slow down so a no is for those bloatware .	3
+624	the screen would be better to be bright enough .	3
+625	i am going to buy a new computer and i want it to have decent graphics and storage .	3
+626	specs are important aspect that i look into when purchasing a new computer .	3
+627	i have got a number of needs on my new computer so i am hoping for a cheap computer that fits all my needs .	3
+628	the computer should not be too heavy for me .	3
+629	moreover , the price should be reasonable .	3
+630	i enjoy gaming and hope the new computer works great on that .	3
+631	the finger pad should be sensitive , and the price should be reasonable .	3
+632	i want a replacement for my old computer and i need a new one that comes with amazing build quality .	3
+633	an awesome keypad is also needed .	3
+634	i need to replace my old computer and i need the new one to be cost effective with a big screen .	3
+635	i do play some kinds of games and i need a new computer that work the games perfectly .	3
+636	i need a computer that comes with reasonable price and runs games well .	3
+637	a wonderful screen should come with an excellent price .	3
+638	last but not least , i do n't want to spend too much on it .	3
+639	i would do as much research as i could to find the best use of my money for a powerful computer .	3
+640	i need some recommendations on a cheap computer which is easy to use and able to run smoothly .	3
+641	i do basic business application on my laptop so i need sufficient amount of ram and large drive of my data .	3
+642	speed is what i concern when purchasing a new computer .	3
+643	i care about gaming experience so i want a computer that play games with no problem .	3
+644	i also need it to handle my task quickly .	3
+645	i would be grateful if it includes separate buttons for left and right click as my previous computer did n't .	3
+646	i want a fast computer with a reasonable price .	3
+647	i am a software developer and i am finding a new computer that can run idss with no glitch in a low cost .	3
+648	the computer have to stay within the budget of my company .	3
+649	i am not finding a fancy computer but a powerful computer with a low cost .	3
+650	i look into many reviews and all i want is a computer that is hast and cheap .	3
+651	i have always been hoping to have a fast computer with a backlit keyboard .	4
+652	i know what i need for my new computer : good size and bright screen .	4
+653	i am finding a fast computer that runs smoothly .	4
+654	i am taking the laptop to school so i want it to be light .	3
+655	i would like to have a new computer that has great colours .	3
+656	i want to buy a new laptop so i can share it with my wife .	3
+657	i think the design of a computer do pay attribute .	3
+658	i have got a lot of documents from my work so i need a new computer that can store all those files with a reasonable price .	3
+659	the keys should be responsive and the screen should sharp .	3
+660	i like computer with nice colour .	3
+661	i hope it would be able to startup fast with a low price .	3
+662	moreover , the colours should be able to display greatly .	3
+663	our mechanic said he needs a laptop that has a high performance-cost ratio .	3
+664	as it is for my wife , it should be light .	3
+665	the computer should have nice colour option and design .	3
+666	my old computer needs replacement and i want a new one that has a nice screen and good keyboard .	3
+667	i want a computer with good performance and low cost .	3
+668	i need big keys for my big fingers .	3
+669	it would be pleasant to have been able to use the computer as soon as possible , so it should be easy to set up .	3
+670	i just want it to be economical and easy to set up .	3
+671	i tend to choose brand with good reputation and i want a sleek , new computer that comes with the perfect size and a ergonomic keyboard .	3
+672	i want the computer to run fast while i am at school .	3
+673	i am going to buy a new laptop online and i want it to have a good screen size .	3
+674	i wo n't expect too much for my new computer but a high performance-cost ratio is a must .	3
+675	i do n't want it to be too expensive .	3
+676	i am finding the best computer that worth my money .	3
+677	i do n't have much requirement for my new computer .	3
+678	i hope the price would be reasonable for a good computer .	3
+679	i have so many much more complicated things to do so i hope the setup would be easy .	3
+680	my wife asks me to buy her an economical yet powerful computer .	3
+681	i would like to have great colour on my computer .	3
+682	i have some light use of the computer and i hope the price won ’ t be too expensive .	3
+683	i also want it to be sleek and light .	3
+684	i want to buy a new gaming laptop for myself that play games well and have a large storage .	3
+685	i like computers with beautiful colour and large screen .	3
+686	i am a student and i am finding an affordable computer that looks great .	3
+687	my old computer is not working anymore so i need a cheap , pretty , new computer .	3
+688	i need an inexpensive device for school .	3
+689	i am finding a fast computer with an awesome screen .	3
+690	i was looking to upgrade my old computer but eventually i decided i would just find a new computer that is more upgradable .	3
+691	the battery life should be long for her and she will need tons of storage space .	3
+692	the battery life should be long .	3
+693	i do n't have a huge budget for the computer .	3
+694	a fast computer with a great price would be what i want .	3
+695	i want to have a computer that would fit into my bag .	3
+696	i am a middle-aged man and i have lower requirements on electrical device .	3
+697	i would like to have a cute laptop with nice design and powerful processor .	3
+698	the computer should be fast and last long .	3
+699	i need it to be fast and have great battery life .	3
+700	a good keyboard is also important .	3
+701	price is what i consider when buying a new computer .	3
+702	the speakers would be great if it is louder than the typical one .	3
+703	the speaker would be better if it can produce nice special mix of sound , but i do n't want it pull up the cost .	3
+704	i am in need of a new computer that is responsive and snappy .	3
+705	if there are plenty of ports , it would easy to upgrade .	3
+706	i only need a fast computer that comes with plenty of storage .	3
+707	the ports should be easily accessible and the touchpad should be nice .	3
+708	my old computer needs replacement and i am finding for a new computer that run games well and is easily upgradable .	3
+709	i want some good-looking computer with good price .	3
+710	a reasonable ram is expected .	3
+711	for a light use of laptop , i am finding one that runs quickly with a low cost .	3
+712	the battery life should be excellent and it should be entirely clear from bloatware .	3
+713	my old computer is starting to be unreliable so i need a new one that has lots of space yet running fast .	3
+714	i do n't want to have much bloatware on my computer .	3
+715	i also want the computer to be substanial with a brushed look .	3
+716	i am going to find a new computer for long-term use .	3
+717	i do n't want to borrow my husband 's computer everytime i need it so i am finding myself a new computer with a nice hard drive .	3
+718	i want the image on the screen to be crisp and clear .	3
+719	the speakers should be nice and the screen should be bright enough for indoor use .	3
+720	i do n't have much requirement on my new computer but i want it to be easy to setup .	3
+721	a fast computer would be preferrable .	3
+722	the speakers should be good and the battery life should be exceptional .	3
+723	the display must be incredible on my new computer .	3
+724	it would be better if it can play games well .	3
+725	a good set of ports and a cd/dvd drive should be included .	3
+726	i am trying to find a new computer that is reasonably priced .	3
+727	i need it to be fast and come with a dvd drive .	3
+728	my old computer is still going on well but i decided to go on with a new one with a longer battery life .	3
+729	i am buying a new laptop for my daughter 's graduation and it should be fast and have beautiful colours .	3
+730	low heat should be produced .	3
+731	i need to buy my wife a new computer and she wants it to be run fast and cool .	3
+732	i am in need of a new computer that comes with high hdd capacity and low price .	3
+733	i am looking for a replacement of my old computer which i require it to have a high performance-cost ratio .	3
+734	the screen should at least be hd and i hope the battery life would be long enough for my papers .	3
+735	i am finding a family laptop for my home and i want one that come with high performance-cost ratio .	3
+736	my old computer is not working anymore and i am finding a new computer with a nice price .	3
+737	moreover , it should be cheap and fast .	3
+738	i am looking for a computer with high performance-cost ratio .	3
+739	i would be grateful to pay as long as the computer lives up to my expectation .	3
+740	i would like to have a dedicated number pad and a responsive touchpad .	3
+741	i need the price to be reasonable .	3
+742	also , it should be fast and last long .	3
+743	i hope the screen is sturdy with good brightness range .	3
+744	i do n't want the price to be too high through .	3
+745	the screen should be high resolution .	3
+746	as long as the price is reasonable , i would be happy to pay for a powerful computer .	3
+747	my other computer own microsoft 350 so it would be nice if the microsoft 350 can automatically updated .	3
+748	i want it to run fast and last long .	3
+749	i would like a reassign of the fn keys to make it look special .	3
+750	i am working to find the best price for the best computer .	3
+751	i am new to laptop so there should be easy installation and loading .	3
+752	i need a fast computer .	3
+753	i need the keys to be responsive .	0
+754	i lost my old taplet so i am finding for a new one that show awesome graphics .	0
+755	i hope the keyboard to be sturdy and cover the tablet perfectly .	0
+756	i sometimes do video calling with my children and it would be great if the microphone picks up sound well .	0
+757	it would even be better if it bootup fast .	3
+758	i am taking the laptop to school and i want it to have a good selection of ports for my use .	3
+759	i am changing my old computer and i want the new to be quick , responsive and economical .	3
+760	my old computer needs replacement and i hope the new one comes with great specs and run smoothly .	3
+761	i do n't really have huge budget and all i want is an affordable computer that can play games well .	3
+762	i also like to have lighted keyboard with a great price .	3
+763	i need a computer within my budget .	3
+764	i need a new computer for myself that feel nice and run games well .	3
+765	right now i just need to play games confortably on it .	3
+766	my dream computer would the one with marvellous design , pleasing audio system and amazing specs .	3
+767	nice sound and nice amount of memory are also expected .	3
+768	i am replacing my old computer which i want a new one that has cool design and beautiful display .	3
+769	i am finding a solid computer with a lighted charger .	3
+770	of cource the battery life should be decent .	3
+771	i need to perform games well with a relatively low cost .	3
+772	i am buying a computer as christmas present for my son and he specifies that it has to be great for games .	3
+773	i am finding myself a new computer that is sturdy with great body colour .	3
+774	i need a new computer to support my work that is solidly built with low cost .	3
+775	i got tired of using the old computer from office so i need a new , fast computer .	3
+776	the looking should be sleek with a full keyboard .	3
+777	i do n't have much criteria for my new computer .	3
+778	i do n't want the new computer to constantly lag as my previous computer .	3
+779	a good screen would help even more .	3
+780	i sometimes have long meetings so a computer with long battery life is a must .	3
+781	it should be fast , responsive and economical .	3
+782	the graphics card should be strong and the battery should be long lasting .	3
+783	a fast computer with a reasonable price is what i need .	3
+784	i am changing my old laptop and i want a fast one that is well designed and great for gaming .	3
+785	i am finding a computer with great price .	3
+786	i like having matted texture on the keys and it would nice to have even backlight .	3
+787	speed is important for my computer .	3
+788	by the way , i do n't have much budget on the computer .	3
+789	it should n't look too fancy , and the key placements should be good .	3
+790	besides , i need plenty of ports .	3
+791	i have never had a laptop before and so i am finding one that can run games with an amazing battery life .	3
+792	i am finding the best computer with the best price .	3
+793	my gaming niece wants some right specs for his computer .	3
+794	for the specs , it should look great with a sturdy keyboard and nice trackpad .	3
+795	i need a powerful laptop to bring to class so it should be small but with a big screen for multitasking .	3
+796	i have a few points to note for a perfect laptop .	3
+797	i wish i would be happy with the money i spent for a perfect computer .	3
+798	i edit photos for a living and that 's why the graphics must be great on my computer .	3
+799	i need a computer come up with the 2018 standard in sound output , keyboard and trackpad .	3
+800	i want to change my old laptop and something cool that handle most games would be perfect .	3
+801	i hope the price would be reasonable though .	3
+802	i wo n't pay too much money for a good computer .	3
+803	i need a new computer that comes with a good price .	3
+804	i need a new computer for myself that is solidly built and has lots of features .	3
+805	i am buying a new laptop but i also want to do gaming on it , so it should run all games well .	3
+806	besides , i want it to bootup fast and perform my games well .	3
+807	besides that , i want it to handle games well .	3
+808	i need to change my old laptop and i need one that run quietly and cool .	3
+809	i am just a student so i need a computer with low price .	3
+810	i normally connect my laptop to my tv for gaming and i hope the new laptop do great in that , without being overheated .	3
+811	i would be happy to receive a quality computer with my money paid .	3
+812	i also want it to stay cool and startup fast .	3
+813	i play games on laptop and i need it to be fast .	3
+814	i have got long lectures so the battery life should be great .	3
+815	for the specs , i specifically need a near-full-size keyboard and a non-glossy screen .	3
+816	there should be a good selection of ports .	3
+817	i am finding a sturdy computer with a nice keyboard .	3
+818	i am into coding and i need a new computer with plenty of ram and amazing build quality .	3
+819	once i find a computer that fits my needs , i am willing to spend the appropiate amount of money .	3
+820	the price should not be too high .	3
+821	i would like it to have a glowing red keyboard and good sound output .	3
+822	i am looking for a computer that will fit my budget .	3
+823	moreover , i want it to be fast and fashionable .	3
+824	i can get a cheap computer and upgrade it later on .	3
+825	i am in college and i need a sturdy and solid computer that comes with a high response rate .	3
+826	i am looking for a quiet computer with a good price .	3
+827	as a college student , i need a great computer with an amazing price .	3
+828	i do a couple of tasks on my laptop si i want it to run games well with a reasonable price .	3
+829	my step son wants a computer with not much bloatware .	3
+830	he does mostly for gaming so a bright screen , fast refreshing , a decent keyboard and loud speakers are all the things he needs .	3
+831	i tend to use my next computer for a long time so the graphics ought to be beautiful .	3
+832	my old computer is not working and i need a light , new computer with a good screen .	3
+833	i am willing to do some research for a good computer and currently i am finding one that play games with good frame rate .	3
+834	i am finding myself a perfect gaming laptop .	3
+835	i also need it to play games well with a decent display .	3
+836	i hope it is fast to boot .	3
+837	my son wants a computer that has cool colours on keyboard .	3
+838	i would look carefully with all the specs that come with the computer and i want it to boot up fast with a great price .	3
+839	i am changing from desktop to laptop and i want one that bootup fast with a quiet fan .	3
+840	it should also be light and well built .	3
+841	i am planning to find a new laptop that has a good processor and build well .	3
+842	i tend to look at other 's reviews before purchasing a computer and i want one that play games well and quietly .	3
+843	i am in need of a new computer and it should work fantasticly for games .	3
+844	i need the graphics to be good .	3
+845	i am lacking money currently but i need a computer with nice price .	3
+846	i play games on laptop and i am finding a professional computer for that .	3
+847	i do create art in photoshop , and as a result i need a computer that can handle large files perfectly .	3
+848	my past laptop just died a few days ago and i am in urgent for a computer that is well balanced for the price .	3
+849	my last computer was still working but i decided to go for a faster computer which is reasonably priced .	3
+850	i know a lot of things about computer and i am now finding a economical computer for myself .	3
+851	i 'm an it student and i need a computer that looks cool .	3
+852	i wo n't depend too much on this laptop so i just need it to have a high performance-cost ratio .	3
+853	i can not put a thick laptop into my bag .	3
+854	the graphic card should be good for gaming and the cpu should be solid .	3
+855	the design should be great with a backlit keyboard .	3
+856	a fast computer that is cheap and easy to use would be my ideal computer .	3
+857	graphics are also important .	3
+858	i am finding a all-rounded computer that is sturdy and has great design .	3
+859	the bootup should be fast on my computer .	3
+860	i do hope the price wo n't be too high .	3
+861	i am looking for a computer that play games well with a reasonable price .	3
+862	i used to use pcs but now i want a laptop with good hardware .	3
+863	my old laptop needs replacement and i need a new one that has beautiful laptop design and accommodating screen size .	4
+864	our homeschooled kids need some computers with large screen for learning .	4
+865	i also want it to be easy to use and priced right .	4
+866	i want it to run smoothly with an easy viewing screen .	4
+867	the graphics should be amazing .	4
+868	it should be lightweight including backlight features .	4
+869	i have to do homework at night so it 's better to include a backlit keyboard .	4
+870	i need a new laptop that is fast and has a nice backlit keyboard .	4
+871	i need a christmas present for my girlfriend and she wants a laptop that boot up fast and can be set up easily .	4
+872	we are finding a new computer with a reasonable price .	4
+873	moreover , i want it be to fast and lightweight .	4
+874	i am finding a fast laptop with a high performance-cost ratio .	4
+875	i am finding a new computer with nice price and good speed .	3
+876	i have a number of files that need good memory to store them .	3
+877	my household has different needs for a computer and so it should be fast and have great graphics .	3
+878	i enjoy gaming and i am finding a laptop that perform well in that .	3
+879	i try to present myself with a computer that has a good price .	3
+880	my old computer is too slow and i need a new one .	3
+881	i have limited budget on my new computer so it should have a great price .	3
+882	i need some recommendations for a computer that comes with a high performance-cost ratio .	3
+883	a fast computer is what i need .	3
+884	i am going to purchase a new computer on black friday so what i want is a computer that play games well in a low cost .	3
+885	i need the computer to come with microsoft programmes .	3
+886	the fan should be quiet .	3
+887	i do n't have much requirement for my new computer , it just need to be cheap .	3
+888	it should also be quiet , lightweight and economical .	3
+889	i surf the internet all day and i am finding a new laptop that do fast in that .	3
+890	of course , the price should be good .	4
+891	i am going back to college later and so i need a laptop with a huge screen and a number pad on the keyboard .	4
+892	a fast computer with a good price is what i want .	4
+893	i have limited budget so the computer should come with a good price .	4
+894	i want to have the best use of the money i would spend on the computer .	4
+895	my brother needs a fast computer as his christmas present .	4
+896	i need a computer that comes with a slim profile dvd burner .	4
+897	i am buying a new laptop for my husband and he wants it to be lightweight , clear and sharp .	3
+898	i am finding a new computer with a great price .	3
+899	the case should be classy and not attachable to fingerprint .	3
+900	illuminated keyboard seems cool to me .	3
+901	my old computer does n't work for me anymore and i am finding a new one with terrifc specs in a great price .	3
+902	the design and the touchscreen should be good as well .	3
+903	i do a lot of typing at night so a backlit keyboard would help me a lot .	3
+904	my old laptop is not working and i am finding a new one that has good amount of ram and storage .	3
+905	it should also be fast and last long .	3
+906	the keyboard should be good though .	3
+907	i would like it to feature backlit keyboard and touch screen .	3
+908	it would be better if the computer is fast .	3
+909	the battery should last long and be replaceable .	3
+910	i am finding myself a new computer that is light and come with nice size .	3
+911	i want a nice matte finish on my new computer so no fingerprints would be attached to it .	3
+912	i am finding a nice computer that would fit my budget .	3
+913	i have limited budget so i need a new computer with great price .	3
+914	i am in need of a new computer that has a good processor and a practical appearance .	3
+915	i only have simple needs on my laptop so it just has to be lightweight and economical .	3
+916	i am finding a computer for myself that is speedy and easy to setup .	3
+917	i would like to have a sleek design for my next computer .	3
+918	speed is important to me when purchasing a new computer .	3
+919	i need a functional yet inexpensive model .	3
+920	i use my laptop for school so i need it to be light and sleek .	3
+921	i have n't been using a laptop for a while and it would be good to be easy to set up .	3
+922	my old computer does n't last long for the battery life and i hope the new one would .	3
+923	it should play games well with a good price .	3
+924	i would look into the specs the computer comes with so it should have a large hard drive and a decent ram .	3
+925	also , it should be fast with the perfect screen size .	4
+926	i need it to be easy to set up .	4
+927	i am getting a new computer for myself and i need it to be good looking with a great price .	4
+928	an adequate screen should be installed on the computer .	4
+929	i am in a nursery school and i use my laptop several hours a day .	4
+930	speed is what i look into when purchasing a new computer .	4
+931	i am replacing an old computer and the new one should come with great price .	4
+932	i need to bring my computer to school so i hope it would be lightweight .	2
+933	i need a good keyboard for my typing work .	2
+934	my girlfriend needs a computer that has a good design and a high performance-cost ratio .	2
+935	quality and price must be balanced for my new computer .	2
+936	i am looking for the best computer with the best price .	2
+937	i need a stylish computer for my work .	2
+938	i have limited budget for a good computer .	2
+939	i want to change my old computer and i am finding a new one that is nice looking and has nice backlit keys .	2
+940	the screen should be sharp though .	2
+941	i need a computer that is light and lasts long for me to work at the coffee shop .	2
+942	i want to save my money for a good computer .	2
+943	i am planning to buy a new laptop and i want to new one to be silent , lightweight and easy to use .	2
+944	i am in need of a new computer that is sleek and compact .	2
+945	i am currently running out of savings but i want a nice computer with a nice price .	2
+946	i am findinging myself a better computer with competitive specs and budget price .	2
+947	i need a computer with good processor .	2
+948	i want to have a new computer for myself and i need to to be sleek , light and easy to use .	2
+949	the keyboard should be good with backlight .	2
+950	also i do n't want to have bloatware on the computer .	2
+951	the design should be good though .	2
+952	i need it to boot quickly while staying cool .	2
+953	my old computer is n't working and i need to find a new one that is sleek and light .	2
+954	my old laptop is not working and i am finding a lightweight and fast one with high performance-cost ratio .	3
+955	i am not having a huge budget and so i need a computer with amazing price .	3
+956	i am in need of a new computer that is fast , sleek and economical .	3
+957	i want to have a fast and quiet computer .	3
+958	i do video editing so a good video card and a fast processor are expected .	3
+959	i need a smaller charger unit with a high performance-cost ratio .	3
+960	i have got a lot of photos and i need a roomy device for that .	3
+961	i want to change my old computer and i need a fast one with excellent battery life .	3
+962	my old computer is not working anymore and i want a new one with sleek design and great display .	3
+963	a fast computer with a high performance-cost ratio is what i need .	3
+964	i do n't know if i would bring the laptop outside but anyway being lightweight is n't bad .	3
+965	i am replacing my old computer and the new one should restart quickly with an excellent price .	3
+966	i am looking for a new computer with great design , great keyboard and awesome sound output .	3
+967	the bezel should be thin around the screen .	3
+968	it would be good if it can install windows automatically out of the box .	3
+969	the graphics should be good though .	3
+970	all i need on a computer is high bootup speed and great graphics .	3
+971	i am finding myself a new computer that has a good battery life and runs cool .	3
+972	i want it to have empty memory slot for further upgrading .	3
+973	i am finding a new computer for myself that is fast and has high internet connection .	3
+974	i need a quiet computer with high performance-cost ratio .	3
+975	the speakers have to be good though .	3
+976	one more thing , i want it to play games well .	3
+977	i want it to be lightweight and loud .	3
+978	i do spreadsheets all day and i want to find myself a computer with a high performance-cost ratio .	3
+979	i am finding a laptop to bring to school that wo n't be stolen .	0
+980	i also hope the build quality would be good .	0
+981	the keyboard should be good .	0
+982	it should be inexpensive and portable .	0
+983	also , it should be light , cool and affordable .	0
+984	a responsive trackpad is needed for me .	0
+985	i am professional in the it sector and i am looking for a computer for my family that is fast , sleek , thin , light and solid .	0
+986	i video chat with my friends so i hope the front camera is great .	0
+987	for the battery life , it should be long and fast for charging .	0
+988	the battery life should be good and the display should have high quality .	2
+989	it would be great if the brightness is adjustable for the backlit keyboard .	2
+990	i am in need of a new computer that is slim , portable and affordable .	2
+991	i do n't want my eyes to be hurt so a non-glare screen is important .	2
+992	the build quality should also be excellent .	2
+993	i am finding a computer for light office work and it should boot up quietly and be easy to set up .	2
+994	i am finding a budget computer that is portable and cool .	2
+995	the screen should be good and the clicks should have nice tactility .	2
+996	i need a light computer that holds my 3d programmes well .	2
+997	the current computer is not working and i want a new one that is slim , light and well crafted .	2
+998	i want to upgrade my old computer that i want a faster , lighter and more attractive model .	2
+999	my old computer is not working properly so i want a computer with a higher performance-cost ratio .	2
+1000	the design should be good though .	2
+1001	i plan to place a new laptop in my home and it should be lightweight , fast and quiet .	2
+1002	the games i play should work well on it .	2
+1003	i am a student and i want to find a fast and light computer for my everday use .	2
+1004	my old computer needs replacement and i need the new one to be lightweight , quick and economical .	2
+1005	i want the keys to be good to type on .	2
+1006	i am not satisfied with my old computer and i want a new one that is light and portable .	2
+1007	my old laptop is not working and i am looking for a new one that is fast , portable and light .	2
+1008	i don ’ t want my current computer anymore and i am looking for a new one coming with the perfect keyboard and screen .	2
+1009	the battery life should be decent .	2
+1010	my old computer is too slow so i need a faster and lighter one .	2
+1011	i am finding a replacement for my old computer that a longer battery life is expected .	2
+1012	the battery life should be long so i do n't have to take a charger around .	2
+1013	i hope it would be sleek and economical .	2
+1014	moreover , the computer should boot up fast .	2
+1015	i work for a long time so the battery life should be long enough to support my work .	2
+1016	one more thing , i want a more stunning display .	2
+1017	i need a fast computer .	2
+1018	the screen should be good .	2
+1019	i want the display to be beautiful and the mousepad and keyboard to be accurate .	2
+1020	i am not affordable to all computers but i want one that is fast and comes with minimal bloatware .	2
+1021	the fan should be quiet so i do n't disturb others .	2
+1022	for the keyboard , i need the keys to be good typing , and it 's better with backlight .	2
+1023	it would be great to feature a fingerprint sensor if it does n't push up the price .	2
+1024	it should also be light and economical .	2
+1025	my old computer does n't serve me anymore and i am getting myself a new one with good specs , good design and good build quality .	2
+1026	i do a lot of travel so i am finding a slim computer that can do well at that .	2
+1027	i need a computer that comes with low price and high specs .	2
+1028	i will use the computer for general school work thus i need it to be lightweight , fast and portable .	2
+1029	the technical specs and speakers should be great .	2
+1030	i plan to buy a travel notebook so it should be slim and lightweight .	2
+1031	my work require me to have a new computer so i am out here finding a thin computer with nice display and sturdy keyboard .	2
+1032	i need to change to a new computer and i want it to have high portability , good display and good battery life .	2
+1033	the battery life should be long and able to recharge quickly .	2
+1034	a computer with high performance-cost ratio is what i need .	2
+1035	the connectivity should be good .	2
+1036	i want to gift myself a light and portable computer .	2
+1037	the technical features should be strong and the battery life should be great .	2
+1038	i want to have a new computer that is lightweight , solid and has good specs .	2
+1039	i am finding a laptop for myself that is superfast and light .	2
+1040	speed is what i consider when purchasing a new computer .	2
+1041	i have tried multiple brands and this time i am finding myself a portable computer .	2
+1042	as a student of systems engineering , i need a fast and portable computer to get my programme done .	2
+1043	the keys should be chiclet though .	2
+1044	my old computer does not work as great as it was so i am finding a new one with a beautiful screen and good build quality .	2
+1045	i am finding for a nice laptop that is slim and fast .	2
+1046	i need a new computer for myself and i want it to come with superb build quality .	2
+1047	i am willing to wait for a computer that fits my needs : small , light and solid .	2
+1048	the display should have high resolution .	2
+1049	i need an economical laptop for my new york trip so it should have a long battery life to stay within the flight .	2
+1050	the keys should be well placed and the touch screen should be responsive .	2
+1051	i am getting a new tablet for my online college so i need a big screen and a nice pen .	2
+1052	i would use the computer with my children so i need it to be light and sturdy .	2
+1053	it would be nice to feature a useful touch screen .	2
+1054	the build quality should be good with a responsive touchscreen .	2
+1055	i am in need of a new computer that comes with great battery .	2
+1056	my son has some suggestion for me on the new computer and all i want is a big screen .	2
+1057	i would have the tablet for office use so it should be easy to use .	2
+1058	the hinges should be good .	2
+1059	it should also be light with high processing speed .	2
+1060	it should also be light and economical .	2
+1061	it should also be sleek and come with the perfect size .	2
+1062	the keyboard should be responsive though .	2
+1063	i would carry my computer around so it would be great to be thin .	2
+1064	i focus on the appearance of a laptop that it should be sleek , nice looking and light .	2
+1065	i am finding the best computer for my money .	2
+1066	i am finding myself a new laptop that is cheap and fast .	2
+1067	i want to try something new that come with a cool touchscreen and sturdy hinges .	2
+1068	besides that , the battery life should be decent .	2
+1069	i am finding a computer for myself that show vivid colours and brightness .	2
+1070	the processor should be good to allow me to play games well .	2
+1071	i draw on my tablet so a style pen is a must .	2
+1072	i took it seriously on typing experience so i need a well sized keyboard that is easy to type on .	2
+1073	i want it to be natural when i am drawing on it .	2
+1074	i also want it to be light and sleek .	2
+1075	i need a computer that has solid performance with reasonable price .	3
+1076	i need a business flagship with a great price .	3
+1077	i do n't enjoy waiting so i need a computer that startup and shutdown fast .	3
+1078	my old computer is too slow and heavy so i want a completely different one .	3
+1079	i am finding a work only computer that is fast and has plenty of memory .	3
+1080	i am a console gamer but now i am finding a gaming laptop that has amazing speed and awesome graphics .	3
+1081	the keyboard would be better to be lighted up .	3
+1082	i want to find a computer with high performance-cost ratio that would be perfect to use in trips .	3
+1083	i want minimal amount of fan noise .	3
+1084	i need the best use of my money on a good computer .	3
+1085	i need a fast computer .	3
+1086	i have been doing a lot of research on computers and i have been longing for a computer that is light and fast .	3
+1087	my old computer does n't perform games well so i need a new one .	3
+1088	the keyboard would be good with great red backlit keys and separated number keypad .	3
+1089	i hope the computer wo n't get overheat at all .	3
+1090	i am planning to replace my old computer and i need the new one to run games fabulously .	3
+1091	i also want a red lit keyboard to come with it .	3
+1092	for the connectivity , i need it to do well in both wifi and bluetooth .	3
+1093	i work in it for a living and i am buying myself a economical computer that does not have a reflective screen .	3
+1094	it should be fast and able to store lots of data .	3
+1095	i play games so i need a laptop to perform well in those .	3
+1096	i want a computer that is thinner than my previous computer .	3
+1097	i want the bootup time to be as short as possible .	3
+1098	the bottom line is that it must play games well .	3
+1099	i am finding a computer to do a couple of gaming so it should run games smoothly with amazing graphics .	3
+1100	for the screen , i want no reflection on it and it should have great viewing angles being crystal clear .	3
+1101	i am looking for a new economical computer for myself and it should bootup fast and have a beautiful display .	3
+1102	a good graphic card should come with a low cost .	3
+1103	i am a video editor and i need a good looking computer .	3
+1104	aesthetics seems important to me .	3
+1105	the wireless connectivity should be good as well .	3
+1106	the data transfer should be fast .	3
+1107	it would be better to feature a wireless display option .	3
+1108	i need some great specs for my computer .	3
+1109	i want a computer that run games without issues .	3
+1110	i need a fast computer .	3
+1111	it would be nice to be featured with a great red backlit keyboard .	3
+1112	i need a nice computer for my work and it should come with awesome specs with a great price .	3
+1113	i need a responsive touchpad .	3
+1114	the keyboard should be comfortable for me with a low cost .	3
+1115	it should startup fast .	3
+1116	the image should be colourful on an anti-glare screen .	3
+1117	a computer with a high performance-cost ratio is what i need .	3
+1118	it should also come with good price and decent battery life .	3
+1119	my work requires for a better computer that comes with a sturdy keyboard with useful backlighting .	3
+1120	i am finding a replacement for a higher performance-cost ratio .	3
+1121	i plan to do some laptop gaming so it should play games well and fast .	3
+1122	moreover , the camera and the speakers should be good with a decent price .	3
+1123	i also want it to be sleek and solid .	3
+1124	the access to internet should be fast .	3
+1125	i need a replacement of my old computer that has a modern design and a nice screen .	3
+1126	the screen should be great though .	3
+1127	my old computer needs replacement and the new one should be fast and has a perfect size .	3
+1128	i would like to have a laptop with a tablet pc form factor .	3
+1129	i need a new computer for myself that is light but has a huge screen with decent graphics .	3
+1130	the touchscreen should be better too .	3
+1131	a reliable fingerprint sensor being featured would be nice .	3
+1132	for the specs , i need a fast fingerprint reader and a backlit keyboard .	3
+1133	the should also be enough ports for connectivity and an expandable ram .	3
+1134	i do the computer for school work and i want it to come with slicky trackpad and good keyboard layout .	3
+1135	i need a solid hard drive to run everything smoothly .	3
+1136	i am in need of a new computer with a nice screen , a convenient fingerprint reader and good battery life .	3
+1137	i do n't work on my old computer nowadays and i need a computer with bigger keys and better keyboard .	3
+1138	i am buying myself a new computer that is fast and built solidly .	3
+1139	my daughter does a lot of drawing on her tablet and she needs a handy one with rich colours shown on the screen .	3
+1140	i want it to be fast in booting .	3
+1141	the battery should last long and run cool .	3
+1142	i need an optimum screen size and a reliable touch of the laptop .	3
+1143	i have just retired and i am finding a computer for my personal use .	3
+1144	the battery should have the best life and do fast charging .	3
+1145	i hope there won ’ t be much bloatware .	3
+1146	i hope it would be easy to setup and has a quick internet connection .	3
+1147	there should be a fast storage .	3
+1148	i want the computer to be sturdy with a nice texture .	3
+1149	it would be great if it comes with a dvd player with a great price .	4
+1150	i do n't have an unlimited budget so i want a computer with a large screen and a fast processor .	4
+1151	i want to have a new computer that comes with the highest performance-cost ratio .	4
+1152	i am getting a new computer with impressing specs to play games well .	4
+1153	the keyboard action should be quick .	4
+1154	my budget is limited and i need a computer with a great price .	4
+1155	i enjoy surfing the internet with no cords needed in a good price .	4
+1156	the only requirement i have for my computer is it has to be easy to use .	4
+1157	my regular computer needs repairment so i am finding a new one with nice display in a low cost .	4
+1158	i would use the computer for engineering purposes and it should be good looking and affordable .	3
+1159	the components should be great with good thermal system .	3
+1160	i do n't want the cost to be high though .	3
+1161	there should not be a lot of preinstalled bloatware .	3
+1162	i do a lot of typing so the keys should be wonderful .	3
+1163	i want a new gaming laptop that play my games well with a good price .	3
+1164	the processor and cooling fans should be effective .	3
+1165	i am finding a new computer that the keyboard is nice looking and comfortable .	3
+1166	i want the trackpad and speakers to be good also .	3
+1167	i need a computer that run any games well .	3
+1168	i need a new computer that is fast and economical .	3
+1169	i do video editing so the computer should work great with that .	3
+1170	i am sensitive to sound so i want the best sound quality on my computer .	3
+1171	i need something to bring to work and i hope it would be thin , light and sturdy .	3
+1172	my old computer does n't work for me anymore and i need a responsive one with high performance-cost ratio .	3
+1173	the cpu and wifi connection should be fast .	3
+1174	i am changing to a new computer and i want to come with amazing speakers and comfortable keyboard .	3
+1175	all i need is a computer that play games well .	3
+1176	i want to have a new computer that is easy to setup .	4
+1177	my old computer needs replacement and i need a new one with a good screen size and tight and responsive keys .	4
+1178	i am finding a replacement computer and it should be fast , light and easy to use .	4
+1179	the computer i want should handle all my needs with a good price .	4
+1180	i am looking for a high quality computer with a great price .	4
+1181	i expect to see some good pictures on the screen .	4
+1182	my old computer died so i need a new one immdiately with good picture and sound in a right price .	4
+1183	my wife says she needs a computer that is easy to use and works well with wifi .	3
+1184	i am finding a new computer for myself that has responsive keys and a beautiful screen .	3
+1185	my friend askes me to buy her a lightweight computer .	3
+1186	my son needs a computer with a good screen size for his animation classes .	3
+1187	all i need is a computer with a long battery life and a great touch screen .	3
+1188	my family and i need a fast computer with a high performance-cost ratio .	3
+1189	i need a fast computer to do basic home stuff .	3
+1190	i need a state-of-the-art laptop that comes with a low price .	3
+1191	i want the new computer to come with a cool touch screen .	3
+1192	i need a recommendation of a handy and light computer for my sister .	3
+1193	i do n't have a huge budget so i need a computer with a good price .	3
+1194	it should also be thin and light .	3
+1195	i am finding the best computer with a great configuration .	3
+1196	i am not into waiting so i need a computer that do fast bootup .	3
+1197	i need a light computer with a good screen .	3
+1198	i need a lightweight and cool looking computer for work .	3
+1199	the battery life should be awesome and the screen should be bright for me .	3
+1200	my old computer is too slow and heavy so i need a new one .	3
+1201	i use a laptop when i go to school and i need a fast one .	3
+1202	we need a new laptop for cctv management and it should bootup fast and have a good battery life .	3
+1203	it should include a good battery life and a bright screen with a low cost .	3
+1204	my old computer is not working and i need a new one that bootup fast .	3
+1205	what i need for school is a fast computer .	3
+1206	the startup should be fast .	3
+1207	i want a nice display with some chickley keys .	3
+1208	i have limited budget and i am finding a computer with fast fingerprint sensor and awesome battery life .	3
+1209	my old computer was on fritz so i need a new computer that is quick and easy to setup .	3
+1210	i am trying to upgrade from an old computer that i need the new one to be thinner and lighter and more economical .	3
+1211	i am finding something new to replace my old computer that has a higher portability and better display .	3
+1212	the screen should be amazing with thin bezels .	3
+1213	a sturdy keyboard is a must .	3
+1214	i need it to be good for typing with a high performance-cost ratio .	3
+1215	i need a great computer for work that comes with a high performance-cost ratio .	3
+1216	i need a worthy computer with nice configuration .	3
+1217	i need a computer with a high performance-cost ratio .	3
+1218	i am looking for recommendation on a fast computer with fantastic price .	3
+1219	i need a strong upgrade from my old computer that is faster and has better screen .	3
+1220	i need it to run quietly and cool .	3
+1221	i did a lot of researching and i need a new computer that is fast , cheap , light and slim .	3
+1222	the display should be matte with a good viewing angle .	3
+1223	the fan should run quietly .	3
+1224	i will do research on the specs and i need a computer that bootup fast and silently .	3
+1225	it should be lightweight , fast and economical .	3
+1226	i am looking for a new computer that is lightweight and good looking .	3
+1227	i need a light computer that is perfect for my business .	3
+1228	i need a new computer for myself that is lightweight and fast .	3
+1229	i am finding a travel laptop for my trip and it must be light and has an amazing battery life with a tiny charger .	3
+1230	the keyboard should be responsive and the battery should be decent .	3
+1231	i did a lot of research and found out having a sharp display is critical to me .	3
+1232	i am looking for a new computer that has a sharp screen and a fast hard drive .	3
+1233	screen is the most important element to me so i want it to be sharp .	3
+1234	i try to stick to one brand and i am finding a new one with a crisp screen and fast cpu .	3
+1235	i want it to be fast , lightweight and portable .	3
+1236	i am finding myself a new computer that has an amazing screen with a high performance-cost ratio .	3
+1237	my old computer is not working and i am finding something that is fast and lightweight .	3
+1238	my old computer needs replacement and i need the new one to have great display and stylish look .	3
+1239	our old computer are not fast enough so we need some new one with higher performance-cost ratio .	3
+1240	i am a teacher and i need the computer to look top notch .	3
+1241	a computer with a high performance-cost ratio is what i want .	3
+1242	i need a new laptop for work and it should be affordable , fast and sleek .	3
+1243	o would need to have some usb type c ports and enough ram on the computer .	3
+1244	the screen quality , the sound output and the battery life must be excellent .	3
+1245	i need the processor to be fast and responsive on my next computer .	3
+1246	i am looking through the recommendations on amazon and want to find myself a quick computer .	3
+1247	i need a different computer from my current computer , which is slow and heavy .	3
+1248	it would be nice if it comes with a convenient fingerprint scanner .	3
+1249	i need a replacement computer that would run mush faster .	3
+1250	i need to use my computer whenever i want so it 's better to startup fast .	3
+1251	i do n't enjoy waiting so i need the computer to startup fast .	3
+1252	i need a fast computer .	3
+1253	i would like to have a light and fast computer .	3
+1254	i need a definite improvement from my old laptop and i want to be fast without much bloatware .	3
+1255	i hope it is upgradable with a good price .	3
+1256	i read a lot of reviews and i decided i would buy a computer that is fast with a budget price .	3
+1257	i also want it to be thin and lightweight .	3
+1258	i need everything to be fast including the startup and operating .	3
+1259	i do n't want to carry a heavy mechine around .	3
+1260	it should be upgradable and economical .	3
+1261	i like having computers having high performance-cost ratio .	3
+1262	the keys should be easy to find .	3
+1263	i am finding a budget gaming laptop that a responsive and nicely backlit keyboard is a must .	3
+1264	i am finding myself a new computer without a ton of bloatware .	3
+1265	i have used my old computer for over 10 years and now i need a nice looking computer .	3
+1266	i want it to look sturdy , slim and stay silent .	3
+1267	i am finding myself a new computer that has a fast refresh rate and good video card .	3
+1268	i am a software engineer and i need a fast computer with nice graphics .	3
+1269	i want to have some great backlights on the keyboard .	3
+1270	now i 'm in college and i need a quiet computer to work with .	3
+1271	i am looking for strong gaming laptop and it should be able to handle demanding games with a good build quality .	3
+1272	i am looking for myself a work station but can run lots of games with a good price .	3
+1273	i am changing my old computer to a more classy-looking one .	3
+1274	i need a new computer with high performance-cost ratio immediately because my old one is not working .	3
+1275	my family is going to have a new laptop and we are looking for a fast one with great graphics .	3
+1276	i am an engineering student and am finding myself a fast computer with superb specs .	3
+1277	my old computer does n't work for me anymore and i need a sleek one which has good battery life and runs games perfectly .	3
+1278	i hope the computer is thin and easy to startup .	3
+1279	i will need a responsive keyboard and a responsive touchpad .	3
+1280	i am looking for a computer with an excellent sound output .	3
+1281	moreover , it should be quick to charge .	3
+1282	the keyboard should be cool and the display should be nice .	3
+1283	what i expect is a good computer with a high performance-cost ratio .	3
+1284	my old computer has broken down and i am finding a new one that is easily upgradable with a high performance-cost ratio .	3
+1285	i do hope there would be a bright display .	3
+1286	i want the computer to come with a high performance-cost ratio .	3
+1287	my old computer is too slow so i need a new one .	3
+1288	i need to have a decent computer with a decent price .	3
+1289	my old computer needs a replacement and the new one should be easy to set up while running cool .	3
+1290	there should not be a lot of bloatware .	3
+1291	the fan should be quiet and easy to clean .	3
+1292	it should be fast , slim , easy to setup and able to run cool .	3
+1293	the colours on screen should be good though .	3
+1294	the display ought to be great with awesome backlit keyboard .	3
+1295	i need a computer with excellent expandability .	3
+1296	the graphic card , the speakers and the processor should be powerful .	3
+1297	i need a fast bootup with a high performance-cost ratio .	3
+1298	the trackpad should also be responsive and large .	3
+1299	the screen size and sound quality should be excellent .	3
+1300	i hope the price would be reasonable though .	3
+1301	there should be impressive back-lit keyboard and long battery life .	3
+1302	i am looking for a powerful workstation with a high performance-cost ratio .	3
+1303	as a responsible student , i am finding a big and full sized laptop to bring to college .	3
+1304	my wife need a computer to do her college work and she needs it to bootup fast and play games well .	3
+1305	i need a new computer that has a high performance-cost ratio .	3
+1306	i want to have a light and sturdy computer .	3
+1307	for the money i paid , i hope it come back with a high quality computer .	3
+1308	i want a new computer that comes with a high performance-cost ratio .	3
+1309	i am buying a laptop for my son so that he can play games with no problem .	4
+1310	i have to change my computer and i want a faster one with a good display .	4
+1311	i do a lot of typing at night so it would be good if the keys are highly visible at night .	4
+1312	i focus on the design of a laptop very much so a beautiful finish and a beautiful screen is a must .	4
+1313	for my games , i need a high contrast on screen to make it looks good .	4
+1314	the keyboard and touchpad should also be good though .	4
+1315	moreover , i need it to come with a strong case .	4
+1316	i hope there is plenty of storage with a good price .	4
+1317	i need a new computer that is fast and own great backlit keyboard along with a beautiful display .	4
+1318	the keyboard should be awesome , as well as the trackpad .	4
+1319	specs ought to be good on my computer .	4
+1320	i am going to find a fast computer for myself .	4
+1321	i need a good piece of computer with a low cost .	4
+1322	i can not an expensive computer but i still want it to be solid with good viewing angles .	4
+1323	i am changing my old computer and i want the new one to be easy to upgrade with a high performance-cost ratio .	4
+1324	i do n't want it to be filled with bloatware .	4
+1325	my old computer is sick and so i need new one that stays cool and quiet .	4
+1326	i also want an amazing display to handle games well .	4
+1327	i want to find the best computer with my limited budget .	4
+1328	for a gamer , i need excellent graphics while running my games .	4
+1329	i do photo editing and i am finding a computer that boot fast and run quietly .	4
+1330	i need to have the best use of money for the best computer .	4
+1331	i enjoy gaming and i am finding myself a computer that handle that with ease .	4
+1332	i need an upgrade from my old computer that i want a better processor and a decent gpu .	4
+1333	i need a fast computer to do video editing .	4
+1334	my old computer needs replacement and i need one that is sleek and thin .	3
+1335	i want the keyboard and numpad to be comfortable .	3
+1336	i am a student and am looking for a laptop that has a long battery life and a nice screen .	3
+1337	i need it to be fast and light .	3
+1338	i have a kid in school and i am buying him a new laptop with a chassis texture .	3
+1339	the screen should be big and the sound quality should be excellent .	3
+1340	the keyboard should be comfortable to someone who has big hands like me .	3
+1341	i am finding my first laptop in college and i need it to have excellent visual fidelity and a full keyboard .	3
+1342	the battery ought to be decent for him .	3
+1343	the ssd should be speedy and the viewing angles should be comfortable for him .	3
+1344	the case should be sturdy as well as fingerprint-resist .	3
+1345	i am lacking money but i need a new computer that comes with a perfect price .	3
+1346	i need a gift that is fast and economical .	3
+1347	i need a nice looking computer .	3
+1348	i will be using the laptop for work so it should be sleek , lightweight and easy to setup .	3
+1349	i want to have a new computer that is easy to setup and produce good sound .	3
+1350	i do n't have a large budget so i need a computer that comes with a nice price .	3
+1351	weight is important to me when purchasing a laptop .	2
+1352	i need the usb port access to be excellent .	2
+1353	i need an excellent choice for home working and it should be elegant and fast .	2
+1354	the keyboard ought to be backlit with some quiet keys .	2
+1355	i am switching my old computer to a quicker and lighter one .	2
+1356	it should perform small applications well .	2
+1357	the hard drive should also come with good size .	2
+1358	i treasure every hour of work so i need a fast computer .	2
+1359	i need a great screen to better do my spreadsheets .	2
+1360	the screen resolution should also be vibrant .	2
+1361	the cpu should be decent and support fast and accurate typing .	2
+1362	my previous computer does no good to me so i need a new one that is lightweight with fast startup time and nice keyboard design .	2
+1363	speaking of quietness , i also need the fan noise to be as low as possible .	2
+1364	i am changing my old computer that i want a faster wifi connection and bootup time .	2
+1365	the bezels should be thin and for the speakers and the battery life , they should be decent .	2
+1366	i need a nice backlit keyboard to do work at night .	2
+1367	a nice fingerprint scanner should be included in my new computer .	2
+1368	i would need enough ports for charging and for further installment .	2
+1369	my old laptop has a broken screen and i want a more good looking one .	2
+1370	i want to purchase a computer that is portable and lightweight .	2
+1371	i do pay attention to user response on computer and i am finding one that is quick , light and slim .	2
+1372	i need a fast computer to get my things done quickly .	2
+1373	my old computer is not that up-to-date and i need a lighter one with a good keyboard and a good touchpad .	2
+1374	i am planning to buy a laptop for my son and he wants it to be lightweight and nice looking .	2
+1375	the colours should be vivid and the angles should be decent on the screen .	2
+1376	moreover , the speakers should be decent .	2
+1377	a quick and responsive computer is what i need .	2
+1378	i enjoy staying with a high quality brand and now i want a new computer with a good fingerprint sensor and a large amount of storage .	2
+1379	the bezels should be narrow for the screen to show sharp images .	2
+1380	i want to get a computer that is slim , light , fast and great looking .	2
+1381	i want it to startup quickly with impressive spces .	2
+1382	the computer should also be portable with reasonable battery life .	2
+1383	i need to take a laptop to my internship and i hope it comes with reasonable price and nice look .	2
+1384	i need some recommendations on a fast computer .	2
+1385	i am using the new laptop to take appointment with my clients and i need it to startup fast and have good processor and ssd .	2
+1386	i am taking a laptop that is travel-friendly and lightweight .	2
+1387	i am replacing my old computer and i want a lighter and more sturdy one .	2
+1388	i am finding myself a light and fast computer .	2
+1389	there should be a good selection of ports .	2
+1390	i would like to have a decent battery life .	2
+1391	the price should be fair with a nice display and a great colour depth on it .	2
+1392	i need a computer to do typical home computer work and it should be light and has a bright screen .	2
+1393	it is time to replace my old computer to a quicker one with a better performance-cost ratio .	2
+1394	i need the specs to be perfect on my computer that means for the screen and the touchpad .	2
+1395	it should turn on quickly with fast processing .	2
+1396	i am not sure what computer i should get but i am sure i need one that bootup quickly and display amazingly .	2
+1397	my wife needs a laptop for studying and she wants it to boot up fast and last long with a low cost .	2
+1398	i want to have a new laptop of office work and i need it to be lightweight and sleek with good build quality .	2
+1399	i want it to be portable and rigid .	2
+1400	the wireless connection should be strong though .	2
+1401	my old computer needs replacement with a lighter and faster model .	2
+1402	i need a new computer that is light and thin with the greatest screen size .	2
+1403	i also want it to be thin and light .	2
+1404	i am buying a slim and lightweight computer for my wife .	2
+1405	i need a lightweight laptop to bring it around .	2
+1406	i want the keyboard to be backlit .	2
+1407	i am taking the laptop to school and i want it to do fast in typing responsiveness and log in time .	2
+1408	i am becoming a coder and i need a new computer that is sleek and has large storage space .	2
+1409	there should also be a quick bluetooth connection .	2
+1410	there should be no heating issues .	2
+1411	i hope the bootup process would be fast also .	2
+1412	it should be economical though .	2
+1413	as an experienced windows user , i am finding a new laptop that is fast , light , sleek and has a good storage capability .	2
+1414	my old tablet finally died and i need a new one that comes with the right price .	1
+1415	the power brick should be small though .	1
+1416	i need to the setup to be easy to follow .	1
+1417	it should be slim and fast .	1
+1418	i am changing my computer of many years to a thinner , lighter and sleeker version .	1
+1419	the screen should also be good looking .	1
+1420	the battery life has to be good which can be charged quickly .	1
+1421	the trackpad and screen size should come ideally .	1
+1422	it should have good viewing angles and be easily expandable .	1
+1423	the keys ought to be tight and accurate .	1
+1424	a good touchscreen should be included to the computer .	1
+1425	moreover , it should be fast .	1
+1426	the computer should be light though .	1
+1427	i do n't have a big budget so i need a computer that comes with a good price .	1
+1428	besides that , i need more-than-enough storage and cpu speed .	1
+1429	i want a balanced weight so i do n't feel like damaging the laptop .	1
+1430	my old computer died suddenly and i need a new one that is fast and economical .	1
+1431	the screen should be great , the keyboard should be tolerable and the touchscreen should be responsive .	1
+1432	i need a fast and lightweight computer .	1
+1433	the screen resolution , flip function , touch screen , keyboard , etc .	1
+1434	i have been working in the computer industry and i am finding myself a computer with nice build quality and nice finish .	1
+1435	should be good .	1
+1436	the viewing angles should be decent , as well as the touchpad .	1
+1437	i need the computer to be light enough that i can carry it around .	1
+1438	my must-have feature is a backlit keyboard .	1
+1439	the setup should be fast , as well as the charging .	1
+1440	a light and sturdy computer with a great screen is what i need .	1
+1441	i want the computer to be thin and light , and it ’ s better to to fully articulated by hinges .	1
+1442	i am finding a laptop with a high performance-cost ratio .	1
+1443	i am replacing my old computer with a lighter one .	1
+1444	i want to have a new computer for myself .	1
+1445	i hope there would be a fast wifi connection .	1
+1446	i am finding myself a new computer that has a sharp screen and a good bluetooth connection .	1
+1447	the screen should be gorgeous and responsive on my computer .	1
+1448	i need a new computer that is lightweight , quiet and fast .	1
+1449	i want it to be sturdy , economical and portable .	1
+1450	i also want it to be fast with cool lighting on the keyboard .	3
+1451	the startup should be fast .	3
+1452	i will use the computer for gaming and i hope there would be a sharp display and a high refresh rate .	3
+1453	i am finding a new laptop that is solid , quick and economical .	3
+1454	good specs would make the computer more powerful .	3
+1455	i am looking for a computer that fulfil my data science demand and it should come with an awesome keyboard .	3
+1456	i need a vivid development platform that is lightweight and has a nice backlit keyboard .	3
+1457	it is in due time to get a new computer and i want it to be sturdy , slim and light .	3
+1458	my computer does n't play my games well so i need a new one that plays games with no stutters .	3
+1459	i am buying a laptop for video editing and so a large ssd is necessary .	3
+1460	i am coming from a high end pc and i need a laptop that plays games well .	3
+1461	i am taking the recommendations from my friend to find a new computer from amazon .	3
+1462	the keyboard should be smooth and the cpu + gpu should be fast .	3
+1463	some right specs should be installed in the new computer .	3
+1464	i need the charging to be quick .	3
+1465	i am finding a new computer for my personal use that is slim and has a nice keyboard .	3
+1466	the graphics and cpu performance ought to be great .	3
+1467	i want it to contain beautiful graphics and multi purple backlit keys .	3
+1468	i am a software developer and i need a fast computer to run my programmes .	3
+1469	my old computer needs replacement and i am finding a thin one with awesome design .	3
+1470	a nice display is also important .	3
+1471	it should be able to refresh games fast and provide a good trackpad .	3
+1472	i am changing my old computer and i want a new one that is faster and more economical .	3
+1473	i need the computer to be big for me with a nice sound output .	3
+1474	i do n't do gaming so i just need a nice , clear touchscreen .	3
+1475	the touch screen should be awesome with a high performance-cost ratio .	3
+1476	the price should n't be too high though .	3
+1477	my old computer does n't work for me anymore so i need a new one with decent touch screen and sound .	3
+1478	i need a real fast computer .	3
+1479	there should be lots of memory .	3
+1480	i want an economical and fast computer .	3
+1481	i need the laptop to look much as a pc so it should have a full keyboard and a good touchscreen .	3
+1482	my old computer needs replacement and the new one should come with good speakers and video quality with a low cost .	3
+1483	i am irritanted with the other pcs and i want to find one that startup fast with no bloatware .	3
+1484	i need a replacement for my recently died computer and i want it to be easy to setup the new computer .	3
+1485	i want something that is simple to use because i do n't know much about laptops .	3
+1486	a fast computer with a responsive touchscreen is what i need .	3
+1487	i want to purchase a new computer that is fast and easy to setup .	3
+1488	i need a work horse that is light and quiet and easy to use .	3
+1489	i am waiting for my husband to buy me a lightweight computer that has the perfect size .	3
+1490	i am planning an upgrade for my wife and she needs it to be lightweight and fast .	1
+1491	i am in need of a new computer with good build quality , screen and keyboard .	1
+1492	my old computer needs replacement and i want the new computer to come with a quiet keyboard and well spaced , sized keys .	1
+1493	the battery life ought to be impressive .	1
+1494	i am trying to change my perfence in branding and i need a light computer .	1
+1495	i need a new laptop for grad school and it should be fast and sturdy and great looking .	1
+1496	i do n't want there to be any bloatware .	1
+1497	i go to work via public transportation so it 's important for me to have a compact , thin and light laptop .	1
+1498	there should n't be much bloatware .	1
+1499	i hope there will be good colours and contrast on the screen .	1
+1500	i am a performance ethusiatist and so an awesome processor is a must .	1
+1501	the screen should be brilliant .	1
+1502	i hope the finish would be fairly fingerprint resistant .	1
+1503	the screen should be sharp and light .	1
+1504	i need a light and fast computer .	1
+1505	the price should be reasonable though .	1
+1506	the battery life should be long though .	1
+1507	for my meetings , i need a light computer with a long battery life .	1
+1508	the touchpad and keyboard should also be good .	1
+1509	i want to have a new laptop that is lightweight with a great battery .	1
+1510	we need a perfect mobile business laptop and it should be quick , light and thin .	1
+1511	it should have the smallest beveling .	1
+1512	i hope the battery stay excellent and keep cool .	1
+1513	i also want it to be light and classy .	1
+1514	i skype with my friends so i need a good sound output so i hear them clearly .	3
+1515	i need a good recommendation on a easy-to-set-up computer with not much bloatware .	3
+1516	i am purchasing a new computer to replace my old one and the new one should come with mosterous storage capacity and high performance-cost ratio .	3
+1517	i need a good keypad on my computer to get my job done .	3
+1518	i am finding a new computer that runs fast and includes good viewing angles .	3
+1519	i need a computer that coordinate well with my iphone .	3
+1520	i hope it would be easy to setup right out of the box .	3
+1521	i have got a lot of files so i need plenty of memory .	3
+1522	i am finding a new computer that is light , handy and easy to use .	3
+1523	i am finding myself a new computer that is fast and solidly built .	3
+1524	my old computer is not working and i am finding a computer with a high performance-cost ratio .	3
+1525	computer is my business and i am finding myself a computer with high performance-cost ratio .	3
+1526	the old computer does n't have a touch screen so there should be one on my new computer .	3
+1527	i am taking the computer around so i need it to be sleek and lightweight .	3
+1528	i am looking for a nice computer with a low price for everyday use .	3
+1529	i do streaming and gaming so i am finding a new laptop that does perfectly in both aspects .	3
+1530	i am buying something from the black friday bargain and i want a new computer that comes with good picture and good sound quality .	3
+1531	i got many good years on my old computer and now i am changing to a faster model with a good touch screen and a good screen size .	3
+1532	the computer i am buying must be fast .	3
+1533	moreover , the bluetooth connection should be excellent .	3
+1534	i am buying a christmas present for my daughter and she wants it to be fast to meet her needs .	3
+1535	i need the setup to be fast .	3
+1536	the hard drive of my old computer died so i need a new one with large storage and reasonable price .	3
+1537	i recently hired a new assistant and i want to buy her a handy computer .	3
+1538	i am buying a laptop for my brother who just entered into college and the amount of storage ought to be more than enough .	3
+1539	i need a light computer so i can carry it around .	3
+1540	it should also be fast and light .	3
+1541	a good hard disk with a reasonable price is what i need .	3
+1542	my boyfriend needs a new laptop that comes with good screen size and touch screen capability .	3
+1543	my old computer has run solidly for eight years and i need a new one with a great price .	3
+1544	i usually stick to one brand when it comes to computer and now i want a computer that runs cool and be easily upgradable .	3
+1545	my old computer lasts for five years and now i am finding a new one with large storage and high performance-cost ratio .	3
+1546	i have got big hands so i need huge touchscreen and keyboard .	3
+1547	i am learning a lot about processors recently and i am finding myself a fast computer with a high performance-cost ratio .	3
+1548	i need the computer to boot up fast to meet my needs .	3
+1549	the screen should be huge though .	3
+1550	i need a new work station that is fast , light and good looking .	3
+1551	my old computer does n't work for me anymore and i need a fast one with lots of space .	3
+1552	i focus on the design and i want a good looking computer .	3
+1553	i am looking for a mother 's day present that is easy to setup .	3
+1554	i need a fast computer	3
+1555	i need a new computer that is easy to setup with a high performance-cost ratio .	3
+1556	my old computer is not working and i need a new with good size and colour .	3
+1557	i need a low priced mechine that is easy to setyp and sound greatly .	3
+1558	i hope it does well for games .	3
+1559	besides , i want it to be fast , light and expandable .	3
+1560	i will need a laptop for software development and it should have good build quality with a decent battery life .	3
+1561	i hope there would be a gorgeous screen and great audio output .	3
+1562	the ssd should be in high quality , as well as the wifi performance .	3
+1563	i play tons of games and i am finding one that has good keyboard and trackpad and screen .	3
+1564	the keyboard should be comfortable that allow me to play games well .	3
+1565	the screen should be bright with a wide viewing angles .	3
+1566	it should bootup fast and has plenty of space .	3
+1567	i want the keyboard to be backlit with clearly lit and quiet keys and large touchpad .	3
+1568	i am finding for a gaming laptop that startup fast and last long with a reasonable price .	3
+1569	the keyboard should be comfortable with nice backlight and good trackpad .	3
+1570	as an artist as well as a gamer , i need the laptop to be nice looking , thin and light .	3
+1571	i want something sleek to play my games well .	3
+1572	the exterior design should be nice , and the unit should be able to keep cool .	3
+1573	i need a laptop that fit in my budget with cool looking and ability to play games without issues .	3
+1574	i do coding and i want a computer with a nicely-spaced backlit keyboard with quiet keys .	3
+1575	i am buying a christmas present and it should be quick , solid and light .	3
