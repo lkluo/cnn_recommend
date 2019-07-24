@@ -4,6 +4,8 @@ In a nutshell, run bash.sh directly
 # Dependency
 - nltk package
 - glove word2vec; here we choose **glove.840B.300d.txt**
+- Pytorch v1.1.0.post2 for constructing CNN model
+- Tensorflow v1.13.1 for calculating metrics, such as accuracy, recall, etc.
 
 ## Data
 - original data are stored in xlsx files
